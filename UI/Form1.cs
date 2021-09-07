@@ -32,6 +32,7 @@ namespace UI
             ofd.ShowDialog();
             string filePath = ofd.FileName;
             tbFilePath.Text = filePath;
+            nameList.Clear();
             if (filePath != "")
             {
                 Thread.Sleep(1000);
@@ -40,6 +41,7 @@ namespace UI
                 StreamReader sr = new StreamReader(filePath, UnicodeEncoding.GetEncoding("UTF-8"));
 
                 string str = "";
+
                 while ((str = sr.ReadLine()) != null)
                 {
                     nameList.Add(str);
@@ -97,6 +99,5 @@ namespace UI
             }
 
         }
-
     }
 }

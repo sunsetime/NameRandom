@@ -38,7 +38,7 @@
             // BtnFile
             // 
             this.BtnFile.BackColor = System.Drawing.SystemColors.Control;
-            this.BtnFile.Location = new System.Drawing.Point(141, 247);
+            this.BtnFile.Location = new System.Drawing.Point(166, 247);
             this.BtnFile.Name = "BtnFile";
             this.BtnFile.Size = new System.Drawing.Size(97, 23);
             this.BtnFile.TabIndex = 3;
@@ -50,12 +50,11 @@
             // 
             this.Labe.AutoSize = true;
             this.Labe.BackColor = System.Drawing.Color.Transparent;
-            this.Labe.Font = new System.Drawing.Font("宋体", 17.83486F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Labe.Location = new System.Drawing.Point(93, 141);
+            this.Labe.Font = new System.Drawing.Font("华文中宋", 23.77982F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Labe.Location = new System.Drawing.Point(99, 105);
             this.Labe.Name = "Labe";
-            this.Labe.Size = new System.Drawing.Size(72, 27);
+            this.Labe.Size = new System.Drawing.Size(0, 41);
             this.Labe.TabIndex = 4;
-            this.Labe.Text = "----";
             this.Labe.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // BtnS
@@ -72,9 +71,9 @@
             // progressBar1
             // 
             this.progressBar1.BackColor = System.Drawing.SystemColors.Control;
-            this.progressBar1.Location = new System.Drawing.Point(30, 288);
+            this.progressBar1.Location = new System.Drawing.Point(30, 289);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(208, 19);
+            this.progressBar1.Size = new System.Drawing.Size(233, 19);
             this.progressBar1.TabIndex = 6;
             // 
             // tbFilePath
@@ -82,10 +81,10 @@
             this.tbFilePath.CausesValidation = false;
             this.tbFilePath.Cursor = System.Windows.Forms.Cursors.Default;
             this.tbFilePath.Enabled = false;
-            this.tbFilePath.Location = new System.Drawing.Point(12, 218);
+            this.tbFilePath.Location = new System.Drawing.Point(19, 218);
             this.tbFilePath.Name = "tbFilePath";
             this.tbFilePath.ReadOnly = true;
-            this.tbFilePath.Size = new System.Drawing.Size(239, 23);
+            this.tbFilePath.Size = new System.Drawing.Size(256, 23);
             this.tbFilePath.TabIndex = 7;
             this.tbFilePath.Text = "未选择文件";
             // 
@@ -95,7 +94,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::UI.Properties.Resources.imgbin_borders_and_frames_frame_decorative_arts_png;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(263, 383);
+            this.ClientSize = new System.Drawing.Size(293, 388);
             this.Controls.Add(this.tbFilePath);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.BtnS);
