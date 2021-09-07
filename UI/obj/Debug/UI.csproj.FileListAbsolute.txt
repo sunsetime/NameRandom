@@ -1,0 +1,10 @@
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\bin\Debug\UI.exe.config
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\bin\Debug\UI.exe
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\bin\Debug\UI.pdb
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\obj\Debug\UI.MainForm.resources
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\obj\Debug\UI.exe
+c:\users\27883\documents\visual studio 2013\Projects\WRoll\UI\obj\Debug\UI.pdb
+C:\Users\27883\Documents\Visual Studio 2013\Projects\WRoll\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\27883\Documents\Visual Studio 2013\Projects\WRoll\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
